@@ -2,7 +2,7 @@
  * @name        Simple Java Calculator
  * @package     ph.calculator
  * @file        Main.java
- * @author      SORIA Pierre-Henry
+ * @author      John Brown
  * @email       johnte.brown0321@student.boardmanschools.org
  * @link        http://github.com/JohnTeBrown
  * @copyright   Copyright Dusk & Rain, All Rights Reserved.
