@@ -3,9 +3,9 @@
  * @package     ph.calculator
  * @file        Main.java
  * @author      SORIA Pierre-Henry
- * @email       pierrehs@hotmail.com
- * @link        http://github.com/pH-7
- * @copyright   Copyright Pierre-Henry SORIA, All Rights Reserved.
+ * @email       johnte.brown0321@student.boardmanschools.org
+ * @link        http://github.com/JohnTeBrown
+ * @copyright   Copyright Dusk & Rain, All Rights Reserved.
  * @license     Apache (http://www.apache.org/licenses/LICENSE-2.0)
  */
 
